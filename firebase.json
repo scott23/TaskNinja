@@ -1,0 +1,9 @@
+{
+  "firebase": "sms-taskninja",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
